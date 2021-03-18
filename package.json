@@ -1,0 +1,11 @@
+{
+  "name": "GulpTemplate",
+  "version": "1.0.0",
+  "description": "GulpTemplate",
+  "scripts": {
+
+  },
+  "keywords": ["gulp", "js", "sass", "pug", "linters"],
+  "author": "logdogkrzn@gmail.com",
+  "license": "WTFPL"
+}
